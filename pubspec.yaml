@@ -1,0 +1,15 @@
+name: fat_dev
+description: flutter development tools
+version: 0.0.1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  json5: ^0.7.0
+    
+dev_dependencies: 
+  test: ^1.17.10
